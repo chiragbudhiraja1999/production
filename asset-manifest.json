@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/production/static/css/main.d1d21504.chunk.css",
+    "main.js": "/production/static/js/main.35589d56.chunk.js",
+    "runtime~main.js": "/production/static/js/runtime~main.2910c19d.js",
+    "static/css/2.22e60ca6.chunk.css": "/production/static/css/2.22e60ca6.chunk.css",
+    "static/js/2.e5d96c1a.chunk.js": "/production/static/js/2.e5d96c1a.chunk.js",
+    "index.html": "/production/index.html",
+    "precache-manifest.bd27bbc2fd9d998ee84191f4488f4b5c.js": "/production/precache-manifest.bd27bbc2fd9d998ee84191f4488f4b5c.js",
+    "service-worker.js": "/production/service-worker.js",
+    "static/media/Capture.png": "/production/static/media/Capture.0767d6d7.png",
+    "static/media/Capture1.png": "/production/static/media/Capture1.bfb0988f.png",
+    "static/media/Cloud.svg": "/production/static/media/Cloud.482cf0d9.svg",
+    "static/media/DJ.png": "/production/static/media/DJ.a857ad85.png",
+    "static/media/Event.png": "/production/static/media/Event.9b39e348.png",
+    "static/media/Exlcusive1.png": "/production/static/media/Exlcusive1.5642c97d.png",
+    "static/media/index.css": "/production/static/media/muli-latin-900italic.f99056b6.woff2",
+    "static/media/Merchandise1.png": "/production/static/media/Merchandise1.e6695548.png",
+    "static/media/Poster1.png": "/production/static/media/Poster1.e7606820.png",
+    "static/media/Poster2.png": "/production/static/media/Poster2.16cd9f45.png",
+    "static/media/Product1.png": "/production/static/media/Product1.1a244899.png",
+    "static/media/Product2.png": "/production/static/media/Product2.3bf299c5.png",
+    "static/media/Shazam.svg": "/production/static/media/Shazam.a6166c73.svg",
+    "static/media/Shoes.png": "/production/static/media/Shoes.5da3012a.png",
+    "static/media/Spotify.svg": "/production/static/media/Spotify.33b0b48e.svg",
+    "static/media/Sukhbir.png": "/production/static/media/Sukhbir.04a29d32.png",
+    "static/media/Work2.png": "/production/static/media/Work2.a13f0ddf.png",
+    "static/media/Youtube.svg": "/production/static/media/Youtube.b6e8ed03.svg",
+    "static/media/sukhbir_profile.png": "/production/static/media/sukhbir_profile.3d12f291.png"
+  }
+}
